@@ -1,7 +1,7 @@
 public class Parameter {
 
         public static void main(String[] args) {
-            // Calling each method with different numbers of parameters
+     
             printNumber(42);
             printNumbers(1, 2, 3);
             printNumbers(4, 5, 6, 7);
